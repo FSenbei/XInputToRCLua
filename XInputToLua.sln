@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C++ Express 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XInputToLua", "XInputToLua\XInputToLua.vcxproj", "{E5DE8635-A7A2-4ADF-A661-ED2AA6F7623E}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XInputToLuaB27", "XInputToLua\XInputToLua.vcxproj", "{E5DE8635-A7A2-4ADF-A661-ED2AA6F7623E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LuaTestForB27", "LuaTestForB27\LuaTestForB27.vcxproj", "{D33B1502-C4EA-4434-A678-1BAE34B8DECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{E5DE8635-A7A2-4ADF-A661-ED2AA6F7623E}.Debug|Win32.Build.0 = Debug|Win32
 		{E5DE8635-A7A2-4ADF-A661-ED2AA6F7623E}.Release|Win32.ActiveCfg = Release|Win32
 		{E5DE8635-A7A2-4ADF-A661-ED2AA6F7623E}.Release|Win32.Build.0 = Release|Win32
+		{D33B1502-C4EA-4434-A678-1BAE34B8DECB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D33B1502-C4EA-4434-A678-1BAE34B8DECB}.Debug|Win32.Build.0 = Debug|Win32
+		{D33B1502-C4EA-4434-A678-1BAE34B8DECB}.Release|Win32.ActiveCfg = Release|Win32
+		{D33B1502-C4EA-4434-A678-1BAE34B8DECB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
